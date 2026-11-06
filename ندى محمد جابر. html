@@ -1,0 +1,56 @@
+!<DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http=gqu1v="x-UA-compatible"content="IEadge">
+    <meta name ="v1ewport" content="w1dth=device=w1dth,1n">
+    
+    <title>holl</title>
+</head>
+<body>
+<strong>name<strong>ندي محمد جابر شاهين
+<strong>الرقم الجامعي <strong>2500468
+<p>CSS</p>
+<p1>مقدمه</p>
+<h1>تعتبر شبكة الانترنت اليوم الوسلة الاولي لنشرالمعلومات عبر العالم</h1>
+<h2> وليقدم تجربه التصفح مميزه للمستخدمين تتضافر عده تقنيات لبناء صفحه الويب
+<p>تعريف CSS </p>
+<h3> هي اختصارCascading StyleSheets وترجم بالعربيه اوراق الانماط المتتاليه زهره الافكار الاولى للغه في منتصف التسعينات </h3>
+<h4> تحديدعام1996بواسطة المطور هاكون ويزم لي بلتعاون مع منظمة الويب العالميه W3Cلمعالجة المشكلات </h4>
+<p3>امثله CSS </p3>
+<table border="10">
+<tr>
+     <th>الرقم</th>
+     <th>الامثله</th>
+</tr>
+<tr>
+     <td>1</td>
+     <td>تغييرلون النص  </td>
+</tr>
+<tr>
+    <td>2</td>
+    <td>تغيير لون الخلفية  </td>
+</tr>
+<tr>
+    <td>3</td>
+    <td>تغيير حجم الخط  </td>
+</tr>
+<tr>
+    <td> 4</td>
+    <td>تغيير نوع الخط </td>
+</tr>
+<tr>
+    <td> 5</td>
+    <td> وضع اطار حول الصورة </td>
+</tr>
+</table>
+<p4>اهمية لغهCSS</p4>
+<h5> 1 يهدف هذا التقرير البحثي الى ابرز الدوره الجوهري للغه  Casالمستندات  في تحويل </h5>
+<h6> كما ينظر البحث  في كيفيه اداره العناصر المرئيه  كخطوط والوان 
+<p5>المراجع بتاعت البحث </p5>
+1w3schools Online Web Tutorials css3Developer Documentation 
+2 MDN Web Docs (Mozilla) Learn Web Develoent 
+</h6>
+<img src="https://chatgpt.com/s/m_6aedff386b648191b1e862d060c12652"alt="TGm"
+</body>
+</html>
